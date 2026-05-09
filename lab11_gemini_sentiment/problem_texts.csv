@@ -1,0 +1,51 @@
+text,my_interpretation,problem_type
+"Great, my laptop crashed again right before the deadline. Amazing day.",negative,sarcasm
+"Thanks for ignoring my message for three days, very professional.",negative,sarcasm
+"Wow, waiting one hour for coffee is exactly what I needed.",negative,sarcasm
+"Perfect, the delivery came late and the box was broken.",negative,sarcasm
+I just love when apps delete my work without saving.,negative,sarcasm
+"Nice job, the update made everything slower.",negative,sarcasm
+Amazing service: nobody answered my call for 20 minutes.,negative,sarcasm
+"Fantastic, my order was wrong again.",negative,sarcasm
+"What a wonderful surprise, another hidden fee.",negative,sarcasm
+Best experience ever: I paid more and got less.,negative,sarcasm
+"The food was cold, but at least the waiter was polite.",mixed,mixed context
+"The hotel room was small, but the view was beautiful.",mixed,mixed context
+"The product works, but I expected much more for this price.",mixed,mixed context
+"The delivery was fast, but the package was damaged.",mixed,mixed context
+"The movie looked great, but the story was boring.",mixed,mixed context
+"The phone camera is good, but the battery is terrible.",mixed,mixed context
+"The restaurant is clean, but the portions are too small.",mixed,mixed context
+"The app has many functions, but it is hard to understand.",mixed,mixed context
+"The teacher explained well, but the task was still confusing.",mixed,mixed context
+"The coffee tasted nice, but it was almost cold.",mixed,mixed context
+"This movie was sick, I really loved it.",positive,slang
+That game was crazy good.,positive,slang
+The concert was fire.,positive,slang
+"This burger is bad, in a good way.",positive,slang / ambiguity
+The new design slaps.,positive,slang
+That was a killer performance.,positive,slang / ambiguity
+"The song is insane, I have played it ten times.",positive,slang
+This laptop is a beast.,positive,slang / ambiguity
+The joke was dead funny.,positive,slang / ambiguity
+The outfit is clean.,positive,slang / ambiguity
+"I am not saying the service was bad, but I would not come back.",negative,indirect meaning
+It could have been worse.,neutral,indirect meaning
+I expected nothing and still felt disappointed.,negative,irony
+"The restaurant is popular, but I do not understand why.",negative,indirect criticism
+The product is not completely useless.,neutral,double negative
+"I do not hate it, but I also do not like it.",neutral,ambiguous
+The update fixed one problem and created three new ones.,negative,contrast
+I guess it is okay if you have no other choice.,negative,indirect criticism
+"The service was acceptable, nothing more.",neutral,weak sentiment
+I smiled because otherwise I would cry.,negative,irony
+"For the price, I expected better quality.",negative,context
+"It is cheap, so I cannot complain too much.",neutral,context
+The food reminds me of school cafeteria lunches.,negative,cultural/context
+"My grandma would probably like this design, but I do not.",negative,context
+"The interface is simple, maybe too simple.",neutral,ambiguous
+"The battery lasts forever, but the phone feels heavy.",mixed,mixed context
+"I waited only ten minutes, which is actually good for this place.",positive,context
+"The room was quiet, which was the only good thing.",negative,contrast
+"I bought it because everyone recommended it, but now I regret it.",negative,contrast
+The support team answered quickly and solved the issue.,positive,simple positive
